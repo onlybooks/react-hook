@@ -4,7 +4,7 @@
 **빠릿빠릿한 애플리케이션 만들기** <br>
 
 #### 존 라슨 지음 | 오현석 옮김 <br>
-#### 432쪽 | 30,000원 | 2024년 3월 29일 출간 | 185x240x21 | ISBN 9791189909611<br>
+#### 432쪽 | 30,000원 | 2024년 3월 29일 출간 | ISBN 9791189909611<br>
 
 <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9BOsz%2FbtsFYMtzF23%2FFN413vxkGm61LBiiI1OfAK%2Fimg.jpg" width = "50%" height = "50%" ><br>
 
