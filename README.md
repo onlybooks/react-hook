@@ -1,1 +1,11 @@
-# React Hooks in Action
+# 리액트 훅 인 액션
+## Suspense와 동시 렌더링을 활용해 
+## 손쉬운 상태 관리와 높은 재사용성을 보장하는 빠릿빠릿한 애플리케이션 만들기
+**존 라슨 지음 | 오현석 옮김**
+**432쪽 | 30,000원 | 2024년 3월 29일 출간 | 185x240x21 | ISBN 9791189909611 (93000)**
+
+!(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9BOsz%2FbtsFYMtzF23%2FFN413vxkGm61LBiiI1OfAK%2Fimg.jpg)
+**판매처 | [교보문고](https://bit.ly/3VsRxst) [예스24](https://bit.ly/3TtywDR) [알라딘](http://aladin.kr/p/BqKWY) [인터파크](https://bit.ly/43vrTW) + 전국 교보/영풍문고 매장**
+** 전자책 2024년 5월 출간 예정**
+
+## ★ 정오표: https://www.onlybook.co.kr/entry/react-hook-errata (아직 등록된 정오사항이 없습니다)
