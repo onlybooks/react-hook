@@ -9,8 +9,7 @@ export default function BookablesList () {
   const bookablesInGroup = bookables.filter(b => b.group === group);
 
   function changeBookable (selectedIndex) {
-    setBookableIndex(selectedIndex);
-    console.log(selectedIndex);
+    setBookableIndex(selectedIndex)
   }
 
   return (
