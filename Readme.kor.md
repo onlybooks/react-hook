@@ -1,4 +1,4 @@
 # 리액트 훅 인 액션 한글판 리포지터리
 
 이 리포지터리는 리액트 훅 인 액션 한글판의 리포지터리입니다.
-영문 리포지터리(https://github.com/jrlarsen/react-hooks-in-action)와 큰 차이는 없으며, 한글판에서 보여준 리액트 18에 맞춘 수정사항이 약간 반영되어 있을 뿐입니다.
+영문 리포지터리( https://github.com/jrlarsen/react-hooks-in-action )와 큰 차이는 없으며, 한글판에서 보여준 리액트 18에 맞춘 수정사항이 약간 반영되어 있을 뿐입니다.
