@@ -1,13 +1,15 @@
-import {bookables} from "../../static.json";
+import staticDB from "../../static.json";
+import { useState } from 'react'
 
 export default function BookablesList () {
+  const { bookables } = staticDB;
+  const [bookableIndex, setBookableIndex] = useState(1);
+
   const group = "Rooms";
   const bookablesInGroup = bookables.filter(b => b.group === group);
 
-  let bookableIndex = 1;
-
   function changeBookable (selectedIndex) {
-    bookableIndex = selectedIndex;
+    setBookableIndex(selectedIndex);
     console.log(selectedIndex);
   }
 
