@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Bookables/BookablesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Bookables/BookablesList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Users/UserPicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UserPicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Users/UsersPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +41,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1733577358" />
+                    <option name="branchName" value="chapter2" />
+                    <option name="lastUsedInstant" value="1733601626" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="0201-pages" />
-                    <option name="lastUsedInstant" value="1733574873" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1733577358" />
                   </RecentBranch>
                 </list>
               </option>
@@ -78,8 +79,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/a./WebstormProjects/react-hooks-in-action/src",
+    "git-widget-placeholder": "chapter2",
+    "last_opened_file_path": "/Users/a./WebstormProjects/react-hooks-in-action/src/components",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,6 +101,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -123,11 +125,22 @@
       <option name="presentableId" value="Default" />
       <updated>1733574647697</updated>
       <workItem from="1733574649445" duration="2245000" />
-      <workItem from="1733577857254" duration="4016000" />
+      <workItem from="1733577857254" duration="10362000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
